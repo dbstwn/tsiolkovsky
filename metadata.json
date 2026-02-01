@@ -1,0 +1,5 @@
+{
+  "name": "Tsiolkovsky : Real-Time CFD [Trial V1.2.3]",
+  "description": "A physically accurate, browser-based compressible flow solver using the Roe Riemann method to simulate supersonic jet exhaust and shock diamonds.",
+  "requestFramePermissions": []
+}
